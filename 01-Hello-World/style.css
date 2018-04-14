@@ -1,0 +1,23 @@
+body {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1, bdi {
+    font-size: 22vmin;
+    color: #26adff;
+    text-shadow: 2vmin 2vmin 4vmin #032836;
+}
+bdi {
+    font-size: 18vmin;
+}
+address {
+    font-size: 14vmin;
+    color: #323639;
+}
+b {
+    color: #ff2724;
+}
